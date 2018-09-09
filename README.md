@@ -60,4 +60,6 @@ console.log(address); // 山西省晋中市昔阳县
 MIT.
 
 [npm-image]: https://img.shields.io/npm/v/mockz.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/mockz
+[downloads-image]: http://img.shields.io/npm/dm/mockz.svg?style=flat-square
 [downloads-url]: https://npmjs.org/package/mockz
