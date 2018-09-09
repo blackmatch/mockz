@@ -1,0 +1,44 @@
+{
+  "name": "mockz",
+  "version": "1.0.2",
+  "description": "generate chinese province,city,county,address.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "DEBUG=test mocha",
+    "spider": "DEBUG=spider node src/spider/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackmatch/mockz.git"
+  },
+  "keywords": [
+    "chinese",
+    "provice",
+    "city",
+    "district"
+  ],
+  "author": "blackmatch <coder.blackmatch@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blackmatch/mockz/issues"
+  },
+  "homepage": "https://github.com/blackmatch/mockz#readme",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "mocha": "^5.2.0",
+    "supports-color": "^5.5.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "bufferhelper": "^0.2.1",
+    "chai": "^4.1.2",
+    "cheerio": "^1.0.0-rc.2",
+    "debug": "^3.1.0",
+    "iconv-lite": "^0.4.24",
+    "lodash": "^4.17.10",
+    "moment": "^2.22.2",
+    "request": "^2.88.0"
+  }
+}
