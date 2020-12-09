@@ -27,7 +27,7 @@
     "eslint": "^4.19.1",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.22.1",
-    "mocha": "^5.2.0",
+    "mocha": "^8.2.1",
     "supports-color": "^5.5.0"
   },
   "dependencies": {
