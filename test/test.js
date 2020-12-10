@@ -1,7 +1,7 @@
 const debug = require('debug')('test');
 const chai = require('chai');
 
-const should = chai.should();
+chai.should();
 
 const mockz = require('../src/index');
 
